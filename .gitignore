@@ -1,0 +1,12 @@
+.vs/
+x64/
+build/
+x64/Release
+crow\ backend/
+
+
+*.log
+*.obj
+*.exe
+*.pdb
+*.tmp
