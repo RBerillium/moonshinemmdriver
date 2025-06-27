@@ -10,3 +10,6 @@ crow\ backend/
 *.exe
 *.pdb
 *.tmp
+*.sys
+*.id
+*.txt
